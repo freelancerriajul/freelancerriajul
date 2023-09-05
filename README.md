@@ -1,16 +1,23 @@
-### Hi, I'm Freelancer Riajul 👋
+### Hi there 👋, Hi, I'm Md. Riajul Islam
+#### WordPress Expert 
+![WordPress Expert ](https://pbs.twimg.com/profile_banners/1447985060745920513/1688538653/1500x500)
+
+I'm Mohammad Riajul roby. my qualification graduate in computer science. I am a professional WordPress developer and Android app developer .I have about two years of experience in this field. I am a Java programmer, as well as have good experience on HTML, CSS, PHP. I also do website design and logo design. My goal is to provide my customers with what they want and make them happy throughout the process. Let's get in touch and start working on your dream website!
+
+Skills: XML/JAVA/PHP / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on KLIB 
+- 🌱 I’m currently learning Python 
+- 💬 Ask me about Web Development  
 
 
-**freelancerriajul/freelancerriajul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/freelancerriajul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/freelancerriajul/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/freelancerriajul)  
 
-Here are some ideas to get you started:
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=freelancerriajul)  
+
+![GitHub metrics](https://metrics.lecoq.io/freelancerriajul)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=freelancerriajul)  
 
